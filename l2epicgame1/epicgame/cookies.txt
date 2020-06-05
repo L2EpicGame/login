@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.l2topzone.com	TRUE	/	FALSE	1999999999	__cfduid	dd3d7a3473407b27c3c0f330acf7d3d1d1590903633
+l2topzone.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+l2sativa.site	TRUE	/	FALSE	1999999999	SERVERID112491	29205|XtNDW|XtNDU
+
